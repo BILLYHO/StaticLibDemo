@@ -42,3 +42,8 @@
 	![image](pic/4.png)
 	
 5. 把 `.a` 文件和头文件拖入项目中即可使用
+
+
+### Reference
+[Xcode WorkSpace含静态库多项目依赖编译](http://my.oschina.net/w11h22j33/blog/204337)
+[xcode 4 制作静态库详解](http://blog.csdn.net/pjk1129/article/details/7255163)
